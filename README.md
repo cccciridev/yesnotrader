@@ -16,8 +16,6 @@
         src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
     <a href="https://www.youtube.com/@yesnotrader" target="_blank"><img alt="YouTube"
         src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-    <a href="https://github.com/yesnotrader" target="_blank"><img alt="GitHub"
-        src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
     <a href="https://wa.me/+40 747 156 969" target="_blank"><img alt="WhatsApp"
         src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
