@@ -4,6 +4,14 @@
 
 **Building autonomous agents that print in prediction markets**
 <p> 
+    <a href="mailto:gego.levente83714@gmail.com" target="_blank"><img alt="Email"
+        src="https://img.shields.io/badge/Email-00599c?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://x.com/intent/follow?screen_name=yesnotrader" target="_blank"><img alt="Twitter"
+        src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+    <a href="https://discord.com/users/711092252872540170" target="_blank">
+        <img alt="Discord @cccciri"
+             src="https://img.shields.io/badge/Discord-%40cccciri-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+    </a>
     <a href="https://t.me/yesnotrader" target="_blank"><img alt="Telegram"
         src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
     <a href="https://www.youtube.com/@yesnotrader" target="_blank"><img alt="YouTube"
