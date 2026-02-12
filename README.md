@@ -1,5 +1,3 @@
-Here's a completely refreshed, shorter, and sharper version:
-
 <div align="center">
 
 # AI × Web3 Sniper
