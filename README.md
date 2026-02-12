@@ -1,11 +1,10 @@
+Here's a completely refreshed, shorter, and sharper version:
+
 <div align="center">
 
-# 🚀 AI Bot Boss × Web3 Hustler
+# AI × Web3 Sniper
 
-*Whippin' up badass AI agents that stack paper in prediction markets*
-
-#### 📞 Hit Me Up Yo:
-
+**Building autonomous agents that print in prediction markets**
 <p> 
     <a href="https://t.me/yesnotrader" target="_blank"><img alt="Telegram"
         src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
@@ -14,45 +13,26 @@
     <a href="https://github.com/yesnotrader" target="_blank"><img alt="GitHub"
         src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+
 </div>
 
 ---
 
-## 🎯 What I Crush
+**Core Focus**  
+AI agents • Polymarket automation • Real edge in chaotic markets
 
-**AI Bots:** Auto-tradin' on Polymarket • Arb plays • MM strats • Copy tradin'  
-**Chains:** Polygon | ETH  
-**Vibe:** Prediction mkts • DeFi tools • Real-time data • Autonomous grinds
+**Currently Shipping**  
+- Autonomous Polymarket trading agents  
+- Lightweight market-making & arbitrage tools  
+- Real-time Polymarket data layer
 
----
-
-## 🛠️ Lit Projects
-
-### 🤖 AI-Powered Fire
-
-- **Polymarket Agents** - AI bots crushin' trades on autopilot
-- **Poly Maker** - Auto MM bot keepin' the order book lit AF via Google Sheets
-
-### ⛓️ Blockchain Bangers
-
-- **Trading Bot Suite** - Sniper, bundler, copy tradin', arb, volume booster w/ Telegram UI
-- **Real-Time Data Client** - TS client snatchin' live Polymarket deets
-- **Polymarket SDK** - Badass toolkit for wallet vibes & interactions
-
----
-
-## 💡 Current Grind
-
-```typescript
-Crankin' out money-makin' AI agents mixin' blockchain infra w/ smart AF decisions
-```
+**Tech Stack**  
+TypeScript • Polygon / Ethereum • Google Sheets → on-chain execution
 
 ---
 
 <div align="center">
 
-⚽ Soccer Fanatic • 🤝 Down for Collabs • 🧪 Always Levelin' Up
-
-### Let's Drop Some Epic Shit 🚀
+📩 Let's build something that makes money while we sleep
 
 </div>
