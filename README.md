@@ -4,18 +4,18 @@
 
 **Building autonomous agents that print in prediction markets**
 <p> 
-    <a href="mailto:gego.levente83714@gmail.com" target="_blank"><img alt="Email"
+    <a href="mailto:misssilverbeauty0927@gmail.com" target="_blank"><img alt="Email"
         src="https://img.shields.io/badge/Email-00599c?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="https://x.com/intent/follow?screen_name=cccciridev" target="_blank"><img alt="Twitter"
+    <a href="https://x.com/intent/follow?screen_name=xxniiinxx" target="_blank"><img alt="Twitter"
         src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-    <a href="https://discord.com/users/711092252872540170" target="_blank">
+    <!-- <a href="https://discord.com/users/711092252872540170" target="_blank">
         <img alt="Discord @cccciri"
              src="https://img.shields.io/badge/Discord-%40cccciri-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-    </a>
-    <a href="https://t.me/cccciri" target="_blank"><img alt="Telegram"
+    </a> -->
+    <a href="https://t.me/xniiinx" target="_blank"><img alt="Telegram"
         src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-    <a href="https://wa.me/+40 747 156 969" target="_blank"><img alt="WhatsApp"
-        src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+    <!-- <a href="https://wa.me/+40 747 156 969" target="_blank"><img alt="WhatsApp"
+        src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a> -->
 </p>
 
 </div>
